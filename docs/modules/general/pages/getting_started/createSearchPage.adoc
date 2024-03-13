@@ -15,8 +15,8 @@ Replace the placeholders with the following values:
 After running the generator, the following actions must be taken: 
 
 [start=1]
-. xref:search/configureSearchResults.adoc[Configure search results]
 . xref:search/configureSearchCriteria.adoc[Configure search criteria]
+. xref:search/configureSearchResults.adoc[Configure search results]
 . xref:search/configureResultDiagram.adoc[Configure result diagram]
 . xref:search/checkForFurtherActions.adoc[Check for further actions]
 . xref:search/commitTheChanges.adoc[Commit the changes]
